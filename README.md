@@ -23,7 +23,7 @@ The Max number of processed requests: 47 per second.
 ![](https://github.com/sabbir72/img/blob/main/F2.png)
 
 Click Here.➡️
-!([Live Report](https://sabbir72.github.io/PerformanceTest_BlazeDemo/))
+[Live Report](https://sabbir72.github.io/PerformanceTest_BlazeDemo/)
 
 
 
